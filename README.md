@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ProgRobot.
 - 👀 I’m interested in web developpement projects.
 - 🌱 I’m currently flowing a Master in Computer science.
-- 💞️ I’m looking for an webdveloppement Internship to find a webdevelopement engineer permanent full time position.
+- 💞️ I’m looking for an webdveloppement Internship.
 - 📫 To contact me, just leave me a comment i send you a feedback.
 
 <!--
