@@ -31,5 +31,5 @@
 * Unit tests : JUnit
 
 ### Contact 📫
-[Linkedin](https://www.linkedin.com/in/youcef-kefif-970274134/ " ")
+* [Linkedin](https://www.linkedin.com/in/youcef-kefif-970274134/ " ")
 
