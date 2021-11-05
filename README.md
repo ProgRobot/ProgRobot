@@ -1,7 +1,7 @@
 ### Hi there ! 👋
 
-*I'm Youcef, Junior web & software developper.
-*I'm also an automation engineer.
+* I'm Youcef, Junior web & software developper.
+* I'm also an automation engineer.
 
 ### My goals 🎯
 
@@ -13,22 +13,22 @@
 
 ### About me 🧑
 
-*Initial studies & professional experiences in industrial automation.
-*Web and software development is a valuable addition to my skills.
-*Autodidact @OpenClassrooms, Udemy, Youtube, Google. 
-*I really have excellents learning & research skills.
+* Initial studies & professional experiences in industrial automation.
+* Web and software development is a valuable addition to my skills.
+* Autodidact @OpenClassrooms, Udemy, Youtube, Google. 
+* I really have excellents learning & research skills.
 
 ### Skills
-*Algorithms & datastuctures: UML, Arrays, stacks, queue , trees, maps.
-*Programming approche: Functional oriented programming, Event driven programming, Object oriented programming, Process driven programming 
-*Basics : HTML, CSS, JavaScript, PHP
-*Main : Java SE/ JAVA EE
-*Frameworks : Springboot, Bootsrap, Express, Tailwind CSS
-*API:
-*NoSQL:
-*SQL : MySQL
-*Productivity : Git, SCRUM
-*Unit tests : JUnit
+* Algorithms & datastuctures: UML, Arrays, stacks, queue , trees, maps.
+* Programming approche: Functional oriented programming, Event driven programming, Object oriented programming, Process driven programming 
+* Basics : HTML, CSS, JavaScript, PHP
+* Main : Java SE/ JAVA EE
+* Frameworks : Springboot, Bootsrap, Express, Tailwind CSS
+* API:
+* NoSQL:
+* SQL : MySQL
+* Productivity : Git, SCRUM
+* Unit tests : JUnit
 
 ### Contact 📫
 
