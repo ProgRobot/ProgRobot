@@ -23,7 +23,7 @@
 * Programming approche: Functional oriented programming, Event driven programming, Object oriented programming, Process driven programming 
 * Basics : HTML, CSS, JavaScript, PHP
 * Main : Java SE/ JAVA EE
-* Frameworks : Springboot, Bootsrap, Express, Tailwind CSS
+* Frameworks : Springboot, Bootsrap.
 * API:
 * NoSQL:
 * SQL : MySQL
