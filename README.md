@@ -23,12 +23,14 @@
 * Programming approche: Functional oriented programming, Event driven programming, Object oriented programming, Process driven programming 
 * Basics : HTML, CSS, JavaScript, PHP
 * Main : Java SE/ JAVA EE
-* Frameworks : Springboot, Bootsrap.
-* API:
-* NoSQL:
+* Frameworks : Springboot, Bootsrap, HIbernate, Maven.
+* API: REST API
+* NoSQL: 
 * SQL : MySQL
+* Data representation langages: XML, JSON.
 * Productivity : Git, SCRUM
 * Unit tests : JUnit
+* To learn: Angular JS.
 
 ### Contact 📫
 * [Linkedin](https://www.linkedin.com/in/youcef-kefif-970274134/ " ")
